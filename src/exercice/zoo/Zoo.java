@@ -26,6 +26,8 @@ public class Zoo {
                 endEnclosure.listAnimals.add(animal);
                 startEnclosure.listAnimals.remove(animal);
 
+                // small change
+
             }
         }
     }
